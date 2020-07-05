@@ -1,0 +1,885 @@
+Irrlicht Engine version 1.8.4
+Linux 5.6.16-200.fc31.x86_64 #1 SMP Thu Jun 4 18:07:41 UTC 2020 x86_64
+Creating X window...
+Starting vidmode fullscreen mode...
+hdisplay: : 1920
+vdisplay: : 1080
+Visual chosen: : 487
+Using renderer: OpenGL 3.0
+Mesa DRI Intel(R) UHD Graphics 620 (Kabylake GT2) : Intel Open Source Technology Center
+OpenGL driver version is 1.2 or better.
+GLSL version: 1.3
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/images/fx/fire.bmp
+Reading material file: bombDown.mtl
+Loaded material start: MAT_BOMB_OLHO.001
+Loaded smoothing group start: 1
+Loaded material start: MAT_BOMB_OLHO.001
+Loaded smoothing group start: 1
+Loaded material start: MAT_BOMB_PAVIO.001
+Loaded smoothing group start: 1
+Loaded material start: MAT_BOMB_TOPO.001
+Loaded smoothing group start: 1
+Loaded material start: MAT_BOMB_CORPO.001
+Loaded smoothing group start: 1
+Loaded mesh: resources/models/powers/bombs/bombDown.obj
+Reading material file: bombFull.mtl
+Loaded material start: MAT_BOMB_CORPO.002
+Loaded smoothing group start: 1
+Loaded material start: MAT_BOMB_TOPO.002
+Loaded smoothing group start: 1
+Loaded material start: MAT_BOMB_PAVIO.002
+Loaded smoothing group start: 1
+Loaded material start: MAT_BOMB_OLHO.002
+Loaded smoothing group start: 1
+Loaded material start: MAT_BOMB_OLHO.002
+Loaded smoothing group start: 1
+Loaded mesh: resources/models/powers/bombs/bombFull.obj
+Reading material file: bombPass.mtl
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/models/powers/bombs/bombPass.png
+Loaded material start: body
+Loaded smoothing group start: off
+Loaded mesh: resources/models/powers/bombs/bombPass.obj
+Reading material file: bombUp.mtl
+Loaded material start: MAT_BOMB_OLHO
+Loaded smoothing group start: 1
+Loaded material start: MAT_BOMB_OLHO
+Loaded smoothing group start: 1
+Loaded material start: MAT_BOMB_PAVIO
+Loaded smoothing group start: 1
+Loaded material start: MAT_BOMB_TOPO
+Loaded smoothing group start: 1
+Loaded material start: MAT_BOMB_CORPO
+Loaded smoothing group start: 1
+Loaded mesh: resources/models/powers/bombs/bombUp.obj
+Reading material file: fireDown.mtl
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/models/powers/fires/fireInnerRing.png
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/models/powers/fires/fireDownCenterRing.png
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/models/powers/fires/fireDownOuterRing.png
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/models/powers/fires/fireEye.png
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/models/powers/fires/fireLeafBack.png
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/models/powers/fires/fireLeaf.png
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/models/powers/fires/fireStem.png
+Loaded material start: mat4
+Loaded smoothing group start: 1
+Loaded material start: mat7
+Loaded smoothing group start: 1
+Loaded material start: mat6
+Loaded smoothing group start: 1
+Loaded material start: mat5
+Loaded smoothing group start: 1
+Loaded material start: mat3
+Loaded smoothing group start: 1
+Loaded material start: mat6
+Loaded smoothing group start: 1
+Loaded material start: mat2
+Loaded smoothing group start: 1
+Loaded material start: mat4
+Loaded smoothing group start: 1
+Loaded material start: mat5
+Loaded smoothing group start: 1
+Loaded material start: mat1
+Loaded smoothing group start: 1
+Loaded material start: mat7
+Loaded smoothing group start: 1
+Loaded mesh: resources/models/powers/fires/fireDown.obj
+Reading material file: fireFull.mtl
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/models/powers/fires/goldCenter.png
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/models/powers/fires/goldRing.png
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/models/powers/fires/goldEye.png
+Loaded material start: mat4
+Loaded smoothing group start: 1
+Loaded material start: mat7
+Loaded smoothing group start: 1
+Loaded material start: mat6
+Loaded smoothing group start: 1
+Loaded material start: mat5
+Loaded smoothing group start: 1
+Loaded material start: mat3
+Loaded smoothing group start: 1
+Loaded material start: mat6
+Loaded smoothing group start: 1
+Loaded material start: mat2
+Loaded smoothing group start: 1
+Loaded material start: mat4
+Loaded smoothing group start: 1
+Loaded material start: mat5
+Loaded smoothing group start: 1
+Loaded material start: mat1
+Loaded smoothing group start: 1
+Loaded material start: mat7
+Loaded smoothing group start: 1
+Loaded mesh: resources/models/powers/fires/fireFull.obj
+Reading material file: fireUp.mtl
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/models/powers/fires/fireUpCenterRing.png
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/models/powers/fires/fireUpOuterRing.png
+Loaded material start: mat4
+Loaded smoothing group start: 1
+Loaded material start: mat7
+Loaded smoothing group start: 1
+Loaded material start: mat6
+Loaded smoothing group start: 1
+Loaded material start: mat5
+Loaded smoothing group start: 1
+Loaded material start: mat3
+Loaded smoothing group start: 1
+Loaded material start: mat6
+Loaded smoothing group start: 1
+Loaded material start: mat2
+Loaded smoothing group start: 1
+Loaded material start: mat4
+Loaded smoothing group start: 1
+Loaded material start: mat5
+Loaded smoothing group start: 1
+Loaded material start: mat1
+Loaded smoothing group start: 1
+Loaded material start: mat7
+Loaded smoothing group start: 1
+Loaded mesh: resources/models/powers/fires/fireUp.obj
+Reading material file: poisonmushroom.mtl
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/models/powers/speeds/t0145_0.png
+Loaded material start: mesh0145mat
+Loaded group start: mesh0145
+Loaded mesh: resources/models/powers/speeds/speedDown.obj
+Reading material file: speedUp.mtl
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/models/powers/speeds/speedUp.png
+Loaded material start: tex
+Loaded smoothing group start: 1
+Loaded mesh: resources/models/powers/speeds/speedUp.obj
+Reading material file: wallPass.mtl
+Could not open file of texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/models/powers/wallPass/images/Teresa_Alb.png
+Loaded material start: m_Teresa
+Loaded smoothing group start: 1
+Loaded mesh: resources/models/powers/wallPass/wallPass.obj
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/images/cursor.png
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/images/splash/background.png
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/images/splash/title.png
+irrKlang sound library version 1.6.0
+Loaded plugin: ikpMP3.so
+Loaded plugin: ikpFlac.so
+Using ALSA driver
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/images/buttons/press.png
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/images/buttons/new.png
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/images/buttons/load.png
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/images/buttons/options.png
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/images/buttons/credits.png
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/images/buttons/leave.png
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/images/buttons/back.png
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/images/buttons/help.png
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/images/buttons/plus.png
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/images/buttons/minus.png
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/images/buttons/general_volume.png
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/images/buttons/music_volume.png
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/images/buttons/sfx_volume.png
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/images/buttons/sounds.png
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/images/buttons/game_settings.png
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/images/buttons/controls.png
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/images/buttons/box_uncheck.png
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/images/buttons/box_check.png
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/images/buttons/fire_power.png
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/images/buttons/bomb_amount.png
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/images/buttons/speed.png
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/images/buttons/wall_pass.png
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/images/buttons/bomb_pass.png
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/images/buttons/1.png
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/images/buttons/2.png
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/images/buttons/3.png
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/images/buttons/4.png
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/images/buttons/5.png
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/images/buttons/keyboard.png
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/images/buttons/keyboard2.png
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/images/buttons/controller.png
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/images/buttons/controller2.png
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/images/buttons/switch.png
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/images/buttons/p1.png
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/images/buttons/p2_2.png
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/images/buttons/p3.png
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/images/buttons/p4.png
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/images/buttons/keyboard_control.png
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/images/buttons/controller_control.png
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/images/buttons/play.png
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/images/buttons/skin.png
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/images/buttons/ia.png
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/images/buttons/ia2.png
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/images/buttons/p.png
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/images/buttons/p2.png
+Loaded mesh: resources/models/characters/mario/mario.md3
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/models/characters/mario/mario_eye.0.png
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/models/characters/mario/mario_eye.0.png
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/models/characters/mario/mario_all.png
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/models/characters/mario/mario_all.png
+Loaded mesh: resources/models/characters/luigi/classic/luigi.md3
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/models/characters/luigi/classic/player_dw01_MarioHand_dif.png
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/models/characters/luigi/classic/player_dw01_MarioHand_dif.png
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/models/characters/luigi/classic/player_dw01_MarioHand_dif2.png
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/models/characters/luigi/classic/player_dw01_MarioHand_dif2.png
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/models/characters/luigi/classic/player_dw01_MarioBody_dif.png
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/models/characters/luigi/classic/player_dw01_MarioBody_dif.png
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/models/characters/luigi/classic/player_dw01_MarioEye_dif.0.png
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/models/characters/luigi/classic/player_dw01_MarioEye_dif.0.png
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/models/characters/luigi/classic/player_dw01_MarioHead_dif.png
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/models/characters/luigi/classic/player_dw01_MarioHead_dif.png
+Loaded mesh: resources/models/characters/waluigi/waluigi.md3
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/models/characters/waluigi/Tex_0001_0.png
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/models/characters/waluigi/Tex_0001_0.png
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/models/characters/waluigi/Tex_0002_0.png
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/models/characters/waluigi/Tex_0002_0.png
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/models/characters/waluigi/Tex_0003_0.png
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/models/characters/waluigi/Tex_0003_0.png
+Loaded mesh: resources/models/characters/toad/toad.md3
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/models/characters/toad/pc09_eye.1.png
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/models/characters/toad/pc09_eye.1.png
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/models/characters/toad/pc09_body_m2.png
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/models/characters/toad/pc09_body_m2.png
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/images/buttons/blueslot.png
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/images/characters/MK8_Icon_Mario.png
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/images/characters/MK8_Icon_Koopa_Troopa.png
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/images/characters/MK8_Icon_Lakitu.png
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/images/characters/MK8_Icon_Peach.png
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/images/characters/MK8_Icon_Waluigi.png
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/images/characters/MK8_Icon_Toad_Yellow.png
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/images/characters/MK8_Icon_Toad_Bleu.png
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/images/characters/MK8_Icon_Toad_Green.png
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/images/characters/MK8_Icon_Toad_Red.png
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/images/characters/MK8_Icon_Luigi.png
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/images/characters/MK8_Icon_Luigi_Fire.png
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/images/characters/MK8_Icon_DryBones.png
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/images/starGrey.png
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/images/star.png
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/images/help.png
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/images/buttons/credits_us.png
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/images/buttons/b.png
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/images/buttons/slot.png
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/images/buttons/resume.png
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/images/buttons/save.png
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/images/countdown_3.png
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/images/countdown_2.png
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/images/countdown_1.png
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/images/countdown_go.png
+Reading material file: observatory.mtl
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/models/planets/observatory/Fall.png
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/models/planets/observatory/redcarpet00SM.png
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/models/planets/observatory/IP2_glow1_i.png
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/models/planets/observatory/IP2V_hebienv2.png
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/models/planets/observatory/mablesidelozet_64.png
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/models/planets/observatory/mokume02.png
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/models/planets/observatory/redrengamip.png
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/models/planets/observatory/bookshelf00.png
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/models/planets/observatory/QFGP_b_mip.png
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/models/planets/observatory/Colorfloor02_128_mip.png
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/models/planets/observatory/QFGP_a2_64.png
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/models/planets/observatory/cloth04_128SM.png
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/models/planets/observatory/DisappearDoor.png
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/models/planets/observatory/Kabe01.png
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/models/planets/observatory/maruigrassmip.png
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/models/planets/observatory/golddoorwaku_128MM.png
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/models/planets/observatory/closetMS.png
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/models/planets/observatory/starpole00.png
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/models/planets/observatory/pinkhanatoha64.png
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/models/planets/observatory/HighLightSample.png
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/models/planets/observatory/whitepla.png
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/models/planets/observatory/tilehousetop.png
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/models/planets/observatory/sibatutikabe.png
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/models/planets/observatory/BellMetalBase02.png
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/models/planets/observatory/tilehouseline.png
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/models/planets/observatory/PlateMetalBase_64.png
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/models/planets/observatory/marbletileKitchen.png
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/models/planets/observatory/yellowhanatoha64.png
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/models/planets/observatory/purplecarpet02MS.png
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/models/planets/observatory/yellowfortilemip.png
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/models/planets/observatory/whitehanatoha64.png
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/models/planets/observatory/woodpanel03_128.png
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/models/planets/observatory/yellowfortile_64.png
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/models/planets/observatory/SolidPalm.png
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/models/planets/observatory/BellMetalBase.png
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/models/planets/observatory/golddoorwakuMM2.png
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/models/planets/observatory/Gaito01MS.png
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/models/planets/observatory/bulefortilemip.png
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/models/planets/observatory/Telescope.png
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/models/planets/observatory/BellMetalBase64.png
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/models/planets/observatory/Yane00.png
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/models/planets/observatory/mado.png
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/models/planets/observatory/WaterIndirect.png
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/models/planets/observatory/goldchainmaruMM.png
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/models/planets/observatory/lozettacartain.png
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/models/planets/observatory/cloth04SM.png
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/models/planets/observatory/squeartilemip.png
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/models/planets/observatory/golddoorwakuMM.png
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/models/planets/observatory/QFGP_a2.png
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/models/planets/observatory/mablewalllozeta00.png
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/models/planets/observatory/EdenWoodPanel.png
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/models/planets/observatory/Gaito01MM.png
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/models/planets/observatory/bulefortile_64.png
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/models/planets/observatory/woodpanel04_128.png
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/models/planets/observatory/LibraryGate00MS.png
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/models/planets/observatory/purplecarpet00.png
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/models/planets/observatory/purplehanatoha64.png
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/models/planets/observatory/boartwood.png
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/models/planets/observatory/bedcloth00.png
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/models/planets/observatory/bedroomFlame.png
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/models/planets/observatory/mablewalllozeta.png
+Loaded material start: m0.001
+Loaded smoothing group start: off
+Loaded smoothing group start: 1
+Loaded material start: m1.001
+Loaded smoothing group start: off
+Loaded smoothing group start: 1
+Loaded material start: m2.001
+Loaded smoothing group start: off
+Loaded smoothing group start: 1
+Loaded material start: m3
+Loaded smoothing group start: off
+Loaded material start: m4
+Loaded smoothing group start: off
+Loaded smoothing group start: 1
+Loaded material start: m5
+Loaded smoothing group start: off
+Loaded smoothing group start: 1
+Loaded material start: m6
+Loaded smoothing group start: off
+Loaded smoothing group start: 1
+Loaded material start: m7
+Loaded smoothing group start: off
+Loaded smoothing group start: 1
+Loaded material start: m8
+Loaded smoothing group start: off
+Loaded smoothing group start: 1
+Loaded material start: m9
+Loaded smoothing group start: off
+Loaded smoothing group start: 1
+Loaded material start: m10
+Loaded smoothing group start: off
+Loaded material start: m11
+Loaded smoothing group start: off
+Loaded smoothing group start: 1
+Loaded material start: m12
+Loaded smoothing group start: off
+Loaded smoothing group start: 1
+Loaded material start: m13
+Loaded smoothing group start: off
+Loaded smoothing group start: 1
+Loaded material start: m14
+Loaded smoothing group start: off
+Loaded smoothing group start: 1
+Loaded material start: m15
+Loaded smoothing group start: off
+Loaded smoothing group start: 1
+Loaded material start: m16
+Loaded smoothing group start: off
+Loaded smoothing group start: 1
+Loaded material start: m17
+Loaded smoothing group start: off
+Loaded smoothing group start: 1
+Loaded material start: m18
+Loaded smoothing group start: off
+Loaded smoothing group start: 1
+Loaded material start: m19
+Loaded smoothing group start: off
+Loaded smoothing group start: 1
+Loaded material start: m0.002
+Loaded smoothing group start: off
+Loaded smoothing group start: 1
+Loaded material start: m1.002
+Loaded smoothing group start: 1
+Loaded material start: m2.002
+Loaded smoothing group start: 1
+Loaded material start: m3.001
+Loaded smoothing group start: off
+Loaded smoothing group start: 1
+Loaded material start: m4.001
+Loaded smoothing group start: off
+Loaded smoothing group start: 1
+Loaded material start: m5.001
+Loaded smoothing group start: off
+Loaded smoothing group start: 1
+Loaded material start: m6.001
+Loaded smoothing group start: off
+Loaded smoothing group start: 1
+Loaded material start: m7.001
+Loaded smoothing group start: 1
+Loaded material start: m8.001
+Loaded smoothing group start: off
+Loaded smoothing group start: 1
+Loaded material start: m9.001
+Loaded smoothing group start: off
+Loaded smoothing group start: 1
+Loaded material start: m10.001
+Loaded smoothing group start: off
+Loaded smoothing group start: 1
+Loaded material start: m11.001
+Loaded smoothing group start: off
+Loaded smoothing group start: 1
+Loaded material start: m12.001
+Loaded smoothing group start: off
+Loaded smoothing group start: 1
+Loaded material start: m13.001
+Loaded smoothing group start: off
+Loaded smoothing group start: 1
+Loaded material start: m14.001
+Loaded smoothing group start: off
+Loaded smoothing group start: 1
+Loaded material start: m15.001
+Loaded smoothing group start: off
+Loaded smoothing group start: 1
+Loaded material start: m16.001
+Loaded smoothing group start: off
+Loaded smoothing group start: 1
+Loaded material start: m17.001
+Loaded smoothing group start: off
+Loaded smoothing group start: 1
+Loaded material start: m0.003
+Loaded smoothing group start: off
+Loaded smoothing group start: 1
+Loaded material start: m3.002
+Loaded smoothing group start: off
+Loaded smoothing group start: 1
+Loaded material start: m0.004
+Loaded smoothing group start: off
+Loaded smoothing group start: 1
+Loaded material start: m1.004
+Loaded smoothing group start: 1
+Loaded material start: m2.003
+Loaded smoothing group start: off
+Loaded smoothing group start: 1
+Loaded material start: m3.003
+Loaded smoothing group start: off
+Loaded smoothing group start: 1
+Loaded material start: m1.004
+Loaded smoothing group start: 1
+Loaded material start: m0.005
+Loaded smoothing group start: off
+Loaded smoothing group start: 1
+Loaded material start: m1.005
+Loaded smoothing group start: off
+Loaded smoothing group start: 1
+Loaded material start: m1.005
+Loaded smoothing group start: off
+Loaded smoothing group start: 1
+Loaded material start: m3.004
+Loaded smoothing group start: 1
+Loaded material start: m3.004
+Loaded smoothing group start: 1
+Loaded material start: m5.002
+Loaded smoothing group start: 1
+Loaded material start: m6.002
+Loaded smoothing group start: 1
+Loaded material start: m0.006
+Loaded smoothing group start: off
+Loaded smoothing group start: 1
+Loaded material start: m2.004
+Loaded smoothing group start: off
+Loaded material start: m3.005
+Loaded smoothing group start: off
+Loaded smoothing group start: 1
+Loaded material start: m4.003
+Loaded smoothing group start: off
+Loaded smoothing group start: 1
+Loaded material start: m1.006
+Loaded smoothing group start: off
+Loaded material start: m1.006
+Loaded smoothing group start: off
+Loaded smoothing group start: 1
+Loaded material start: m0.007
+Loaded smoothing group start: off
+Loaded smoothing group start: 1
+Loaded material start: m1.007
+Loaded smoothing group start: off
+Loaded smoothing group start: 1
+Loaded material start: m2.005
+Loaded smoothing group start: off
+Loaded smoothing group start: 1
+Loaded material start: m3.006
+Loaded smoothing group start: off
+Loaded smoothing group start: 1
+Loaded material start: m4.004
+Loaded smoothing group start: off
+Loaded smoothing group start: 1
+Loaded material start: m5.003
+Loaded smoothing group start: off
+Loaded smoothing group start: 1
+Loaded material start: m0.008
+Loaded smoothing group start: off
+Loaded smoothing group start: 1
+Loaded material start: m3.007
+Loaded smoothing group start: off
+Loaded smoothing group start: 1
+Loaded material start: m4.005
+Loaded smoothing group start: 1
+Loaded material start: m5.004
+Loaded smoothing group start: 1
+Loaded material start: m6.003
+Loaded smoothing group start: 1
+Loaded material start: m7.002
+Loaded smoothing group start: 1
+Loaded material start: m7.002
+Loaded smoothing group start: 1
+Loaded material start: m9.002
+Loaded smoothing group start: off
+Loaded smoothing group start: 1
+Loaded material start: m10.002
+Loaded smoothing group start: off
+Loaded smoothing group start: 1
+Loaded material start: m11.002
+Loaded smoothing group start: off
+Loaded smoothing group start: 1
+Loaded material start: m2.007
+Loaded smoothing group start: 1
+Loaded material start: m3.008
+Loaded smoothing group start: 1
+Loaded material start: m3.008
+Loaded smoothing group start: off
+Loaded smoothing group start: 1
+Loaded material start: m5.005
+Loaded smoothing group start: 1
+Loaded material start: m6.004
+Loaded smoothing group start: 1
+Loaded material start: m7.003
+Loaded smoothing group start: 1
+Loaded material start: m8.002
+Loaded smoothing group start: 1
+Loaded material start: m8.002
+Loaded smoothing group start: 1
+Loaded material start: m10.003
+Loaded smoothing group start: off
+Loaded smoothing group start: 1
+Loaded material start: m11.003
+Loaded smoothing group start: 1
+Loaded material start: m12.002
+Loaded smoothing group start: 1
+Loaded material start: m13.002
+Loaded smoothing group start: off
+Loaded smoothing group start: 1
+Loaded material start: m14.002
+Loaded smoothing group start: off
+Loaded smoothing group start: 1
+Loaded material start: m0.010
+Loaded smoothing group start: off
+Loaded smoothing group start: 1
+Loaded material start: m2.008
+Loaded smoothing group start: off
+Loaded material start: m3.009
+Loaded smoothing group start: off
+Loaded smoothing group start: 1
+Loaded material start: m4.006
+Loaded smoothing group start: off
+Loaded smoothing group start: 1
+Loaded material start: m1.010
+Loaded smoothing group start: off
+Loaded material start: m1.010
+Loaded smoothing group start: off
+Loaded smoothing group start: 1
+Loaded material start: m0.011
+Loaded smoothing group start: off
+Loaded smoothing group start: 1
+Loaded material start: m2.009
+Loaded smoothing group start: off
+Loaded material start: m3.010
+Loaded smoothing group start: off
+Loaded smoothing group start: 1
+Loaded material start: m1.011
+Loaded smoothing group start: off
+Loaded material start: m0.012
+Loaded smoothing group start: off
+Loaded smoothing group start: 1
+Loaded material start: m2.010
+Loaded smoothing group start: off
+Loaded material start: m3.011
+Loaded smoothing group start: off
+Loaded smoothing group start: 1
+Loaded material start: m4.008
+Loaded smoothing group start: off
+Loaded smoothing group start: 1
+Loaded material start: m1.012
+Loaded smoothing group start: off
+Loaded material start: m1.012
+Loaded smoothing group start: 1
+Loaded material start: m0.013
+Loaded smoothing group start: off
+Loaded material start: m1.013
+Loaded smoothing group start: 1
+Loaded material start: m2.011
+Loaded smoothing group start: off
+Loaded smoothing group start: 1
+Loaded material start: m3.012
+Loaded smoothing group start: off
+Loaded smoothing group start: 1
+Loaded material start: m4.009
+Loaded smoothing group start: off
+Loaded smoothing group start: 1
+Loaded material start: m5.006
+Loaded smoothing group start: off
+Loaded smoothing group start: 1
+Loaded material start: m6.005
+Loaded smoothing group start: off
+Loaded smoothing group start: 1
+Loaded material start: m2.012
+Loaded smoothing group start: 1
+Loaded material start: m3.013
+Loaded smoothing group start: 1
+Loaded material start: m4.010
+Loaded smoothing group start: 1
+Loaded material start: m4.010
+Loaded smoothing group start: 1
+Loaded material start: m6.006
+Loaded smoothing group start: off
+Loaded smoothing group start: 1
+Loaded material start: m7.004
+Loaded smoothing group start: off
+Loaded smoothing group start: 1
+Loaded material start: m8.003
+Loaded smoothing group start: off
+Loaded smoothing group start: 1
+Loaded material start: m0.015
+Loaded smoothing group start: 1
+Loaded material start: m1.015
+Loaded smoothing group start: off
+Loaded smoothing group start: 1
+Loaded material start: m1.015
+Loaded smoothing group start: 1
+Loaded material start: m3.014
+Loaded smoothing group start: off
+Loaded smoothing group start: 1
+Loaded material start: m1.015
+Loaded smoothing group start: 1
+Loaded material start: m0.016
+Loaded smoothing group start: 1
+Loaded material start: m1.016
+Loaded smoothing group start: 1
+Loaded material start: m2.013
+Loaded smoothing group start: 1
+Loaded material start: m3.015
+Loaded smoothing group start: 1
+Loaded material start: m4.011
+Loaded smoothing group start: off
+Loaded smoothing group start: 1
+Loaded material start: m5.007
+Loaded smoothing group start: 1
+Loaded material start: m6.007
+Loaded smoothing group start: 1
+Loaded material start: m7.005
+Loaded smoothing group start: 1
+Loaded material start: m8.004
+Loaded smoothing group start: 1
+Loaded material start: m9.003
+Loaded smoothing group start: off
+Loaded smoothing group start: 1
+Loaded material start: m2.014
+Loaded smoothing group start: off
+Loaded material start: m4.012
+Loaded smoothing group start: 1
+Loaded material start: m5.008
+Loaded smoothing group start: 1
+Loaded material start: m5.008
+Loaded smoothing group start: 1
+Loaded material start: m0.017
+Loaded smoothing group start: off
+Loaded smoothing group start: 1
+Loaded material start: m1.018
+Loaded smoothing group start: off
+Loaded smoothing group start: 1
+Loaded material start: m3.017
+Loaded smoothing group start: 1
+Loaded material start: m4.013
+Loaded smoothing group start: 1
+Loaded material start: m5.009
+Loaded smoothing group start: 1
+Loaded material start: m6.008
+Loaded smoothing group start: off
+Loaded smoothing group start: 1
+Loaded material start: m6.008
+Loaded smoothing group start: 1
+Loaded material start: m8.006
+Loaded smoothing group start: 1
+Loaded material start: m8.006
+Loaded smoothing group start: 1
+Loaded material start: m10.004
+Loaded smoothing group start: off
+Loaded smoothing group start: 1
+Loaded material start: m11.004
+Loaded smoothing group start: off
+Loaded smoothing group start: 1
+Loaded material start: m12.003
+Loaded smoothing group start: off
+Loaded smoothing group start: 1
+Loaded material start: m13.003
+Loaded smoothing group start: off
+Loaded mesh: resources/models/planets/observatory/observatory.obj
+Reading material file: Common.mtl
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/models/planets/arena/main0.png
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/models/planets/arena/main1.png
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/models/planets/arena/main2.png
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/models/planets/arena/main3.png
+Loaded group start: main3
+Loaded material start: main3
+Loaded group start: main3
+Loaded material start: main2
+Loaded group start: main3
+Loaded material start: main1
+Loaded group start: main3
+Loaded material start: main0
+Loaded mesh: resources/models/planets/arena/Main.obj
+Reading material file: bean_planet.mtl
+PNG warning: iCCP: known incorrect sRGB profile
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/models/planets/bean_planet/beanSS02.png
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/models/planets/bean_planet/beanSS01.png
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/models/planets/bean_planet/beanSS00.png
+Loaded material start: m0
+Loaded smoothing group start: 1
+Loaded material start: m1
+Loaded smoothing group start: off
+Loaded smoothing group start: 1
+Loaded material start: m2
+Loaded smoothing group start: 1
+Loaded mesh: resources/models/planets/bean_planet/bean_planet.obj
+Reading material file: tower_planet.mtl
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/models/planets/tower_planet/planSS02.png
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/models/planets/tower_planet/planSS01.png
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/models/planets/tower_planet/planSS00.png
+Loaded group start: Cube_Cube_Material
+Loaded material start: Material
+Loaded smoothing group start: off
+Loaded group start: n0b2_ID20_m0
+Loaded material start: m0
+Loaded smoothing group start: off
+Loaded smoothing group start: 1
+Loaded group start: n1b0_ID29_m1
+Loaded material start: m1
+Loaded smoothing group start: off
+Loaded smoothing group start: 1
+Loaded group start: n2b1_ID38_m2
+Loaded material start: m2
+Loaded smoothing group start: off
+Loaded smoothing group start: 1
+Loaded mesh: resources/models/planets/tower_planet/tower_planet.obj
+Reading material file: dreadnought_planet.mtl
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/models/planets/dreadnought_planet/dreaSS08.png
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/models/planets/dreadnought_planet/dreaSS07.png
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/models/planets/dreadnought_planet/dreaSS06.png
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/models/planets/dreadnought_planet/dreaSS05.png
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/models/planets/dreadnought_planet/dreaSS04.png
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/models/planets/dreadnought_planet/dreaSS03.png
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/models/planets/dreadnought_planet/dreaSS02.png
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/models/planets/dreadnought_planet/dreaSS01.png
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/models/planets/dreadnought_planet/dreaSS00.png
+Loaded material start: m0.002
+Loaded smoothing group start: off
+Loaded smoothing group start: 1
+Loaded material start: m1.002
+Loaded smoothing group start: 1
+Loaded material start: m2.002
+Loaded smoothing group start: off
+Loaded smoothing group start: 1
+Loaded material start: m2.002
+Loaded smoothing group start: off
+Loaded smoothing group start: 1
+Loaded material start: m3.002
+Loaded smoothing group start: off
+Loaded smoothing group start: 1
+Loaded material start: m4.002
+Loaded smoothing group start: off
+Loaded smoothing group start: 1
+Loaded material start: m5.002
+Loaded smoothing group start: off
+Loaded smoothing group start: 1
+Loaded material start: m6.002
+Loaded smoothing group start: off
+Loaded smoothing group start: 1
+Loaded material start: m7.002
+Loaded smoothing group start: off
+Loaded smoothing group start: 1
+Loaded material start: m8.002
+Loaded smoothing group start: off
+Loaded smoothing group start: 1
+Loaded mesh: resources/models/planets/dreadnought_planet/dreadnought_planet.obj
+Reading material file: dusty_planet.mtl
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/models/planets/dusty_planet/dustSS08.png
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/models/planets/dusty_planet/dustSS00.png
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/models/planets/dusty_planet/dustSS09.png
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/models/planets/dusty_planet/dustSS16.png
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/models/planets/dusty_planet/dustSS01.png
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/models/planets/dusty_planet/dustSS03.png
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/models/planets/dusty_planet/dustSS04.png
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/models/planets/dusty_planet/dustSS07.png
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/models/planets/dusty_planet/dustSS05.png
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/models/planets/dusty_planet/dustSS06.png
+Loaded material start: m0.001
+Loaded smoothing group start: off
+Loaded smoothing group start: 1
+Loaded material start: m1.001
+Loaded smoothing group start: 1
+Loaded material start: m2.001
+Loaded smoothing group start: off
+Loaded material start: m3.001
+Loaded smoothing group start: 1
+Loaded material start: m4.001
+Loaded smoothing group start: off
+Loaded smoothing group start: 1
+Loaded material start: m5.001
+Loaded smoothing group start: 1
+Loaded material start: m6.001
+Loaded smoothing group start: 1
+Loaded material start: m7.001
+Loaded smoothing group start: 1
+Loaded material start: m8.001
+Loaded smoothing group start: 1
+Loaded material start: m9
+Loaded smoothing group start: 1
+Loaded mesh: resources/models/planets/dusty_planet/dusty_planet.obj
+Reading material file: gateway_planet.mtl
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/models/planets/gateway_planet/dirt.png
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/models/planets/gateway_planet/dirt2.png
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/models/planets/gateway_planet/grass.png
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/models/planets/gateway_planet/rock2.png
+Loaded material start: rock2
+Loaded smoothing group start: off
+Loaded material start: dirt2
+Loaded smoothing group start: off
+Loaded material start: dirt
+Loaded smoothing group start: off
+Loaded material start: grass
+Loaded smoothing group start: off
+Loaded mesh: resources/models/planets/gateway_planet/gateway_planet.obj
+Reading material file: plateA.mtl
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/models/planets/observatory/HighLight00.png
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/models/planets/observatory/goldami01.png
+Loaded material start: m0
+Loaded smoothing group start: off
+Loaded material start: m2
+Loaded smoothing group start: off
+Loaded material start: m1
+Loaded smoothing group start: off
+Loaded smoothing group start: 1
+Loaded material start: m1
+Loaded smoothing group start: off
+Loaded smoothing group start: 1
+Loaded mesh: resources/models/planets/observatory/plateA.obj
+Reading material file: plateB.mtl
+Loaded material start: m0.001
+Loaded smoothing group start: off
+Loaded material start: m2.001
+Loaded smoothing group start: off
+Loaded material start: m1.001
+Loaded smoothing group start: off
+Loaded smoothing group start: 1
+Loaded material start: m1.001
+Loaded smoothing group start: off
+Loaded smoothing group start: 1
+Loaded mesh: resources/models/planets/observatory/plateB.obj
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/images/terrain/bluecloud_bk.jpg
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/images/terrain/bluecloud_ft.jpg
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/images/terrain/bluecloud_lf.jpg
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/images/terrain/bluecloud_rt.jpg
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/images/terrain/bluecloud_dn.jpg
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/images/terrain/bluecloud_up.jpg
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/images/fx/fireball.bmp
+Reading material file: solid.mtl
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/models/blocks/spritesheet.png
+Loaded material start: Material.002
+Loaded smoothing group start: 1
+Loaded mesh: resources/models/blocks/solid.obj
+Reading material file: bomb.mtl
+Loaded texture: /home/mliberal/Tek2/OOP_indie_studio_2019/build/resources/models/bomb/ItemBomhei_Alb.png
+Loaded material start: Material
+Loaded smoothing group start: off
+Loaded material start: m_ItemBomhei
+Loaded smoothing group start: 1
+Loaded mesh: resources/models/bomb/bomb.obj

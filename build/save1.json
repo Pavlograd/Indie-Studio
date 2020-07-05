@@ -1,0 +1,124 @@
+{
+    "player0": {
+        "isAlive": "true",
+        "firePower": "1",
+        "bombAmount": "1",
+        "speed": "2",
+        "wallPass": "false",
+        "bombPass": "false",
+        "entityNumber": "1",
+        "winNumber": "0",
+        "input": "666",
+        "character": {
+            "size": "20",
+            "state": "0",
+            "visibility": "true",
+            "orientation": "2",
+            "animationSpeed": "30.0000019",
+            "travelTime": "1000",
+            "modelName": "mario",
+            "position": [
+                "1",
+                "1"
+            ]
+        }
+    },
+    "player1": {
+        "isAlive": "false",
+        "firePower": "1",
+        "bombAmount": "4",
+        "speed": "2",
+        "wallPass": "false",
+        "bombPass": "false",
+        "entityNumber": "2",
+        "winNumber": "0",
+        "input": "42",
+        "character": {
+            "size": "0.200000003",
+            "state": "2",
+            "visibility": "true",
+            "orientation": "0",
+            "animationSpeed": "30.0000019",
+            "travelTime": "1000",
+            "modelName": "luigi",
+            "position": [
+                "1",
+                "17"
+            ]
+        }
+    },
+    "player2": {
+        "isAlive": "false",
+        "firePower": "1",
+        "bombAmount": "4",
+        "speed": "2",
+        "wallPass": "false",
+        "bombPass": "false",
+        "entityNumber": "3",
+        "winNumber": "0",
+        "input": "42",
+        "character": {
+            "size": "2",
+            "state": "2",
+            "visibility": "true",
+            "orientation": "1",
+            "animationSpeed": "30.0000019",
+            "travelTime": "1000",
+            "modelName": "waluigi",
+            "position": [
+                "11",
+                "1"
+            ]
+        }
+    },
+    "player3": {
+        "isAlive": "true",
+        "firePower": "1",
+        "bombAmount": "3",
+        "speed": "2",
+        "wallPass": "false",
+        "bombPass": "false",
+        "entityNumber": "4",
+        "winNumber": "0",
+        "input": "42",
+        "character": {
+            "size": "2.5",
+            "state": "0",
+            "visibility": "true",
+            "orientation": "3",
+            "animationSpeed": "30.0000019",
+            "travelTime": "1000",
+            "modelName": "red_toad",
+            "position": [
+                "10",
+                "17"
+            ]
+        }
+    },
+    "map": [
+        "00111011011111000",
+        "02121212121212120",
+        "11111101101111110",
+        "12121212121212121",
+        "01111111110111111",
+        "12121202121212120",
+        "11101111111111111",
+        "12121212121212121",
+        "01111110111111011",
+        "02121212121212120",
+        "00011111010111000"
+    ],
+    "bombMap": [
+        "00222022022222000",
+        "02222222222222220",
+        "22222202202222220",
+        "22222222222222222",
+        "02222222220222222",
+        "22222202222222220",
+        "22202222222222222",
+        "22222222222222222",
+        "02222220222222022",
+        "02222222222222220",
+        "00022222020222000"
+    ]
+}

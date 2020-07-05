@@ -1,0 +1,3 @@
+/home/mliberal/Tek2/OOP_indie_studio_2019/build/CMakeFiles/rebuild_cache.dir
+/home/mliberal/Tek2/OOP_indie_studio_2019/build/CMakeFiles/bomberman.dir
+/home/mliberal/Tek2/OOP_indie_studio_2019/build/CMakeFiles/edit_cache.dir
